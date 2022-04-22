@@ -13,3 +13,7 @@
 8. Back-End Build
 9. Front-End Deploy
 10. Back-End Deploy
+
+![pipeline screenshot](./screenshots/Screenshot-pipeline-1.png)
+
+![pipeline screenshot](./screenshots/Screenshot-pipeline-2.png)

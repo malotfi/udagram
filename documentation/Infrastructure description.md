@@ -8,4 +8,4 @@
 
 ## Diagram
 
-![architecture -diagram](../architecture -diagram.png)
+![architecture -diagram](./architecture-diagram.png)

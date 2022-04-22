@@ -7,8 +7,8 @@ The app is accessible via this link:
 
 screens:
 
-![elastic beanstalk](./screens/Screenshot-elasticbeanstalk.png)
+![elastic beanstalk](./documentation/screenshots/Screenshot-elasticbeanstalk.png)
 
-![s3 bucket](./screens/Screenshot-s3-bucket.png)
+![s3 bucket](./documentation/screenshots/Screenshot-s3-bucket.png)
 
-![rds postgres](./screens/Screenshot-rds-postgres.png)
+![rds postgres](./documentation/screenshots/Screenshot-rds-postgres.png)
