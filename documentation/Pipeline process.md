@@ -1,5 +1,17 @@
 # Pipeline process
 
+## Process :
+
+1. setup the environment by installing node.js , aws cli, and elastic beanstalk cli using orbs.
+
+2. install deficiencies for the front-end and the back-end
+
+3. build the front-end and the back-end
+
+4. deploy the front-end and the back-end
+
+![pipeline diagram](./pipeline-diagram.png)
+
 ## Steps :
 
 
